@@ -39,6 +39,6 @@ python quantum_diffusion_model.py
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-```
+
 
 
