@@ -31,7 +31,14 @@ The code structure is organized into logical sections that follow the paper's me
 To run the model:
 ```bash
 python quantum_diffusion_model.py
+```
 
+## Installation
 
+1. Clone this repository
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+```
 
 
